@@ -16,3 +16,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+## What to look for?
+The Calculator.jar file can be used to execute the program or after cloning the repo, you can run main file to execute it. If needed you can convert this to exe, or linux/mac executable files.
