@@ -19,4 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 ## What to look for?
-The Calculator.jar file can be used to execute the program or after cloning the repo, you can run main file to execute it. If needed you can convert this to exe, or linux/mac executable files.
+The Calculator.jar file can be used to execute the program or after cloning the repo, you can run main file to execute it. 
